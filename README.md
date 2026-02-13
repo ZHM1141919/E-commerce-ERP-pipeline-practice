@@ -21,3 +21,4 @@ External Logistics: how long the carrier takes to transport the goods to the cus
 Root Cause Analysis: Is the delay caused by "slow packing" (Seller issue) or "slow transit" (Logistics issue)?
 Geographic Optimization: Identifying the Top "High-Latency Regions" to decide whether to invest in local warehouses or switch logistics providers.
 ROI of Speed: Quantifying exactly how much a delivery delay drops a customer's review score, proving the financial value of faster fulfillment.
+<img width="1485" height="627" alt="image" src="https://github.com/user-attachments/assets/ec6efd6f-db9c-407d-b43e-d1e76ef77024" />
